@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-🔭 Actualmente estoy trabajando en una página de ventas de boletos para eventos musicales.<br>👯 Estoy buscando colaborar en un equipo de 6 personas, (pronto agregaré sus perfiles de GitHub).<br>🌱 Actualmente estoy aprendiendo NestJs en profundidad, integrándolo con GraphQL.<br>💬 Pregúntame sobre Express, NodeJs y NestJS.<br>⚡ Cómo contactarme: locana392@gmail.com
+🔭 Actualmente estoy trabajando en una página de ventas de boletos para eventos musicales.<br>👯 Estoy colaborando en un equipo de 6 personas, (pronto agregaré sus perfiles de GitHub).<br>🌱 Actualmente estoy en busqueda laboral activa.<br>💬 Cómo contactarme: locana392@gmail.com<br>
 
 
 ## 🌐 Socials:
