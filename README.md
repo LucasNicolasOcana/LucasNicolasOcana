@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on ticket sales page for musical events.<br>👯 I’m looking to collaborate on team of 6 people, (I will be adding their GitHub profiles soon).<br>🌱 I’m currently learning NestJs in depth, integrating GraphQL whit it.<br>💬 Ask me about Express, NodeJs and NestJS.<br>⚡ How to reach me locana392@gmail.com
+# 💫 Sobre mi:
+🔭 Actualmente estoy trabajando en una página de ventas de boletos para eventos musicales.<br>👯 Estoy buscando colaborar en un equipo de 6 personas, (pronto agregaré sus perfiles de GitHub).<br>🌱 Actualmente estoy aprendiendo NestJs en profundidad, integrándolo con GraphQL.<br>💬 Pregúntame sobre Express, NodeJs y NestJS.<br>⚡ Cómo contactarme: locana392@gmail.com
 
 
 ## 🌐 Socials:
